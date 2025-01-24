@@ -1,0 +1,20 @@
+.main-container{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  height: 50px;
+  font-size: 20px;
+  background-color: #000;
+  justify-content: center;
+  color: #fff;
+  height: 35px;
+  display: flex;
+  margin-top: auto;
+  width: 100%;
+
+}
+
+
